@@ -9,6 +9,6 @@ We invite you to collaborate on one of our repos below.
 
 # Who Are We
 
-[tek.com](www.tek.com)
+[tek.com](https://www.tek.com)
 
 
