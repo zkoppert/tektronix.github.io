@@ -11,12 +11,11 @@ We invite you to collaborate with us on one of our repos below. Each repository 
 
 Open Source is all about collaboration and code but it is also all about connecting people! To see who is involved with Open Source at Tektronix, consider reaching out to a team member below.
 
-![Zack Koppert](https://en.gravatar.com/userimage/19250342/8fbd1a13e33a53a414e75458aaba483d.jpg?size=200)
-
+![Zack Koppert](https://en.gravatar.com/userimage/19250342/8fbd1a13e33a53a414e75458aaba483d.jpg?size=200)  
 *Zack Koppert*, Inner Source Project Maintainer, Open Source Maintainer
 
-
-![Nick Lynch-Jonely](./media/IMG_20180918_160220.jpg = 100x100) Nick Lynch-Jonely, Inner Source Project Maintainer, Open Source Maintainer
+<img src="/media/IMG_20180918_160220.jpg" alt="Nick Lynch-Jonely Photo" width="200"/>
+*Nick Lynch-Jonely*, Inner Source Project Maintainer, Open Source Maintainer
 
 
 
