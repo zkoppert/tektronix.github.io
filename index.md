@@ -14,7 +14,7 @@ Open Source is all about collaboration and code but it is also all about connect
 ![Zack Koppert](https://en.gravatar.com/userimage/19250342/8fbd1a13e33a53a414e75458aaba483d.jpg?size=200)  
 *Zack Koppert*, Inner Source Project Maintainer, Open Source Maintainer
 
-<img src="/media/IMG_20180918_160220.jpg" alt="Nick Lynch-Jonely Photo" width="200"/>
+<img src="/media/IMG_20180918_160220.jpg" alt="Nick Lynch-Jonely Photo" width="200"/>  
 *Nick Lynch-Jonely*, Inner Source Project Maintainer, Open Source Maintainer
 
 
