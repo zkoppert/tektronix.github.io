@@ -20,3 +20,10 @@ A landing page for Tektronix Github Repos
 4. Build the site and make it available on a local server
    `bundle exec jekyll serve`
 5. Now browse to http://localhost:4000
+
+## Testing
+
+The following steps are performed as a part of CI. If you want to run them locally, do this:
+
+- Install prettier and run `prettier --write *.md` then check the git diff for prettier's changes.
+- Follow local build installation instructions above. Then run `bundle exec jekyll build` to ensure the site buidls.
