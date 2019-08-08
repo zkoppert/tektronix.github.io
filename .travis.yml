@@ -1,0 +1,24 @@
+dist: xenial
+
+before_install:
+  - sudo apt-get update
+  - sudo apt-get install -y ruby-full build-essential zlib1g-dev
+
+notifications:
+  slack: tek-oso-internal:tBStikUyvah8EOPb8QY7VWvS
+
+branches:
+  only:
+    - master
+
+install:
+ - npm install -g prettier
+ - echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+ - echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+ - echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+ - source ~/.bashrc
+ - gem install jekyll bundler
+
+script:
+ - prettier --check --no-config *.md
+ - bundle exec jekyll build
