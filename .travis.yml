@@ -13,7 +13,7 @@ branches:
 
 install:
  - npm install -g prettier
- - npm install --save markdown-lint-check
+ - npm install -g markdown-link-check
  - echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
  - echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
  - echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
@@ -23,5 +23,5 @@ install:
 
 script:
  - prettier --check --no-config *.md
- - markdown-link-check ./README.md
+ - cat *.md | markdown-link-check
  - bundle exec jekyll build
