@@ -4,6 +4,9 @@
 
 A landing page for Tektronix Github Repos
 
+## Maintainers
+- [Zack Koppert](https://github.com/zkoppert)
+
 ## Local builds
 
 1. Install a full Ruby development environment
