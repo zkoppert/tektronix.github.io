@@ -33,6 +33,7 @@ The following steps are performed as a part of CI. If you want to run them local
 - Follow local build installation instructions above. Then run `bundle exec jekyll build` to ensure the site buidls.
 
 ## Contributing
+
 First, please consult the Tektronix [Code of Conduct](https://tektronix.github.io/Code-Of-Conduct/). Contributions in the form of new examples or bug fixes are welcome! Please contribute using [Github Flow](https://guides.github.com/introduction/flow/).
 
 Contributions to this project must be accompanied by a Contributor License Agreement. You (or your employer) retain the copyright to your contribution; this simply gives us permission to use and redistribute your contributions as part of the project.
