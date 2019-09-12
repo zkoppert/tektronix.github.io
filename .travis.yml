@@ -5,7 +5,7 @@ before_install:
   - sudo apt-get install -y ruby-full build-essential zlib1g-dev
 
 notifications:
-  slack: tek-oso-internal:tBStikUyvah8EOPb8QY7VWvS
+  slack: tek-oso:tBStikUyvah8EOPb8QY7VWvS
 
 branches:
   only:
