@@ -43,3 +43,9 @@ _Tyler Hotan_, Inner Source Project Maintainer
 ![Jesse Ulibarri](./media/jesseulibarri.jpg)  
 _Jesse Ulibarri_, Inner Source Project Maintainer  
 [![Github](https://img.shields.io/badge/github-ulibarje-&?labelColor=006281&colorB=3E434A&logo=github)](https://github.com/ulibarje/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-&?labelColor=006281&colorB=3E434A&logo=linkedin)](https://www.linkedin.com/in/jesse-ulibarri/)
+
+---
+
+![Zach Nielsen](./media/zachnielsen.jpg)  
+_Zach Nielsen_, Open Source Project Maintainer  
+[![Github](https://img.shields.io/badge/github-zatchbo-&?labelColor=006281&colorB=3E434A&logo=github)](https://github.com/zatchbo/)
