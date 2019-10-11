@@ -8,16 +8,17 @@ Please visit site for official documentation!
 construct the proper URL - ` https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>`
 
 Add additional parameters (chain parameters together with `&`):
+
 | Parameter | Description |
-|---|---|
-|`?style=<xxxx>`| Available styles: plastic, flat, flat-square, for-the-badge, social.|
-|`?color=fedcba`  |Set background of the right part (hex, rgb, rgba, hsl, hsla and css named colors supported).|
-|`?labelColor=abcdef` | Set background of the left part (hex, rgb, rgba, hsl, hsla and css named colors supported).|
-|`?logoColor=TekBlue` | Set the color of the logo (hex, rgb, rgba, hsl, hsla and css named colors supported).|
-|`?logoWidth=40` | Set the horizontal space to give to the logo.|
-|`?link=http://left&link=http://right` | Specify what clicking on the left/right of a badge should do|
-|`?logo=<supported logo name>` |  Insert one of the named logos from [simple-icons](https://simpleicons.org/). P.S. If the name includes spaces, replace them with dashes (e.g: ?logo=visual-studio-code)|
-|`?logo=data:image/png;base64,<b64str>` | Insert custom logo image, use [provided example script](./png-to-b64.py) to convert *.png/*.jpg etc. to `b64str`.|
+| :-------------:| :-------------:| 
+|`?style=<xxxx>` | Available styles: plastic, flat, flat-square, for-the-badge, social. |
+|`?color=fedcba` | Set background of the right part (hex, rgb, rgba, hsl, hsla and css named colors supported). |
+|`?labelColor=abcdef`| Set background of the left part (hex, rgb, rgba, hsl, hsla and css named colors supported). |
+|`?logoColor=TekBlue` | Set the color of the logo (hex, rgb, rgba, hsl, hsla and css named colors supported). |
+|`?logoWidth=40` | Set the horizontal space to give to the logo. |
+|`?link=http://left&link=http://right` | Specify what clicking on the left/right of a badge should do. |
+|`?logo=<supported logo name>` |  Insert one of the named logos from [simple-icons](https://simpleicons.org/). P.S. If the name includes spaces, replace them with dashes (e.g: ?logo=visual-studio-code) |
+|`?logo=data:image/png;base64,<b64str>` | Insert custom logo image, use [provided example script](./png-to-b64.py) to convert *.png/*.jpg etc. to `b64str`. |
 
 ### Example python script usage:
 
