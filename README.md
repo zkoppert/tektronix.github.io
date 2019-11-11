@@ -6,7 +6,7 @@ A landing page for Tektronix Github Repos
 
 ## Maintainers
 
-- [Zack Koppert](https://github.com/zkoppert)
+- [Nick Lynch-Jonely](https://github.com/nlynchjo)
 
 ## Local builds
 
