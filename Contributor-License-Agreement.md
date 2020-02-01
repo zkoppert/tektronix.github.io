@@ -1,17 +1,18 @@
 [![Teklogo](https://tektronix.github.io/media/tektronix-logoFull.png)](https://github.com/tektronix)
 
 # Contributor Licensing Agreement
+
 Before accepting Contributions from any person or entity, Tektronix, Inc. ("Tektronix") needs each Contributor to sign a Contributor License Agreement ("CLA"), indicating their agreement to the terms below. This license protects you as a Contributor as well as Tektronix; it does not change your rights to use your own Contributions for any other purpose.
 
 You accept and agree to the following terms and conditions for all Contributions You submit to Tektronix. Except for the license granted herein to Tektronix (and recipients of software distributed by Tektronix or its Affiliates), You reserve all right, title, and interest in and to Your Contributions.
 
-1. **Definitions.** 
+1. **Definitions.**
 
-	1. “Affiliates” for a given entity means all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (i) the direct or indirect power to direct or manage such entity, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+   1. “Affiliates” for a given entity means all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (i) the direct or indirect power to direct or manage such entity, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
 
-	2. “Contribution” means any original work of authorship—including any modifications or additions—that is intentionally communicated or submitted (in any form) by You for Tektronix to include in any of the projects owned or managed by Tektronix (the “Work”). Contributions exclude any communication that is conspicuously marked or otherwise designated as “Not a Contribution.”
+   2. “Contribution” means any original work of authorship—including any modifications or additions—that is intentionally communicated or submitted (in any form) by You for Tektronix to include in any of the projects owned or managed by Tektronix (the “Work”). Contributions exclude any communication that is conspicuously marked or otherwise designated as “Not a Contribution.”
 
-	3. “You,” “Your,” or “Contributor” means the copyright owner or legal entity authorized by the copyright owner that is making this Agreement with Tektronix. For legal entities, the entity making a Contribution and its Affiliates are considered to be a single Contributor.
+   3. “You,” “Your,” or “Contributor” means the copyright owner or legal entity authorized by the copyright owner that is making this Agreement with Tektronix. For legal entities, the entity making a Contribution and its Affiliates are considered to be a single Contributor.
 
 2. **Grant of Copyright License.** Subject to the terms and conditions of this Agreement, You hereby grant to Tektronix and its Affiliates and recipients of software distributed by Tektronix or its Affiliates, a perpetual, worldwide, non-exclusive, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Your Contributions and any such derivative works.
 
@@ -27,10 +28,7 @@ You accept and agree to the following terms and conditions for all Contributions
 
 8. You agree to notify Tektronix of any facts or circumstances of which You become aware that would make these representations inaccurate in any respect.
 
-
-----
+---
 
 We appreciate community contributions to our open sourced repositories. By signing a contributor license agreement, we ensure that the community is free to use your contributions.  
 Please review our privacy policy [HERE](https://www.tek.com/privacy-statement) for information about how we are using this data.
-
- 
