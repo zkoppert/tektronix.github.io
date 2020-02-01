@@ -10,7 +10,12 @@ notifications:
 branches:
   only:
     - master
-
+    
+before_install:
+  - gem update --system
+  - gem --version
+  - gem install bundler
+  
 install:
  - npm install -g prettier
  - echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
