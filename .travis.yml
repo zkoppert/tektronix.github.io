@@ -2,7 +2,7 @@ dist: xenial
 
 before_install:
   - sudo apt-get update
-  - sudo apt-get install -y ruby-full build-essential zlib1g-dev
+  - sudo apt-get install -y ruby-full build-essential zlib1g-dev nodejs
 
 notifications:
   slack: tek-oso:tBStikUyvah8EOPb8QY7VWvS
