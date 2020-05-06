@@ -16,12 +16,6 @@ Open Source is all about collaboration and code but it is also all about connect
 
 ---
 
-![Zack Koppert](https://en.gravatar.com/userimage/19250342/8fbd1a13e33a53a414e75458aaba483d.jpg?size=200)  
-_Zack Koppert_, Inner Source Project Maintainer, Open Source Maintainer  
-[![Github](https://img.shields.io/badge/github-zkoppert-&?labelColor=006281&colorB=3E434A&logo=github)](https://github.com/zkoppert/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-&?labelColor=006281&colorB=3E434A&logo=linkedin)](https://www.linkedin.com/in/zack-koppert/) [![Twitter](https://img.shields.io/badge/twitter-ZacheryK89-&?labelColor=006281&colorB=3E434A&logo=twitter)](https://twitter.com/ZacheryK89)
-
----
-
 ![Nick Lynch-Jonely](./media/nicklynchjonely.jpg)  
 _Nick Lynch-Jonely_, Inner Source Project Maintainer, Open Source Maintainer  
 [![Github](https://img.shields.io/badge/github-nlynchjo-&?labelColor=006281&colorB=3E434A&logo=github)](https://github.com/nlynchjo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-&?labelColor=006281&colorB=3E434A&logo=linkedin)](https://www.linkedin.com/in/nick-lynch-jonely-059399b/) [![Twitter](https://img.shields.io/badge/twitter-nicknotbender-&?labelColor=006281&colorB=3E434A&logo=twitter)](https://twitter.com/nicknotbender)
