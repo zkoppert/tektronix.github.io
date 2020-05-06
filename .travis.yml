@@ -1,8 +1,9 @@
 dist: xenial
+language: node_js, nvm
 
 before_install:
   - sudo apt-get update
-  - sudo apt-get install -y ruby-full build-essential zlib1g-dev nodejs
+  - sudo apt-get install -y ruby-full build-essential zlib1g-dev
 
 notifications:
   slack: tek-oso:tBStikUyvah8EOPb8QY7VWvS
